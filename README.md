@@ -1,5 +1,5 @@
 - Hi, I’m @ZechariahWang
-- I’m interested in Robotics development
+- I’m currently the lead programmer for team 210Z Eclipse Robotics
 - I’m currently learning HTML/CSS and Javascript
 - Discord: Zechariah#7378
 - Email: Zechariahwang@gmail.com
