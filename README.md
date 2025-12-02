@@ -3,8 +3,8 @@
 [zechariahwang.ca](https://www.zechariahwang.ca/) ← check out my personal website for more :)
 
 ### currently
-- software development engineer intern @ [aws](https://aws.amazon.com/) (```fall 2025```)
-  - working with the [dynamodb global tables](https://aws.amazon.com/dynamodb/global-tables) team in ```seattle```!
+- software development engineer intern @ [twos conversation](https://twos.net/) (```fall 2025```)
+  - working with the ai engineering team team in ```nyc```!
 - seeking ```summer 2026``` internship opportunities
 - doing lots of learning & going to hackathons
   - [nudge](https://github.com/sbrina-w/uofthacks12): built @ ```uoft hacks``` ([submission](https://dorahacks.io/buidl/21709))
@@ -15,8 +15,7 @@
   - [boxd office](https://github.com/rubylu-05/boxd-office): a ```letterboxd``` dashboard for movie enthusiasts
 
 ### past
-- ```winter 2025```: hydropower optimization + ml @ [hatch](https://www.hatch.com/) (sustainability + software)
-- ```summer 2024```: desktop applications + automation @ [ym inc.](https://www.ym-inc.com/) (retail tech)
+- ```winter 2025```: medical ivus/oct imaging for cardiac procedures @ [conavi](https://www.conavi.com/novasight/) 
 
 ### technical skills
 - programming languages: `python` `c++` `c` `c#` `java` `javascript` `dart`
