@@ -15,12 +15,14 @@
 - ```winter 2025```: medical ivus/oct imaging for cardiac procedures @ [conavi](https://www.conavi.com/novasight/) 
 
 ### technical skills
-- programming languages: `python` `c++` `c` `c#` `java` `javascript` `dart`
+- programming languages: `javascript` `typescript` `python` `c++` `c` `c#` `java` `lua` 
 - web development: `html/css` `react` `next.js` `node.js` `tailwind css` `flask`
-- data science & machine learning: `tensorflow` `opencv` `pandas` `beautiful soup` `streamlit`
-- cloud & database: `firebase` `mongodb` `aws` `sql`
-- mobile development: `flutter`
-- desktop & systems: `.net`
+- data science & machine learning: `pytorch` `opencv` `pandas` `matplotlib`
+- cloud & database: `firebase` `mongodb` `aws` `postgresql`
+- robotica: `ros2` `linux` `ubuntu` `gazebo` `arduino` `pros`
+- mobile development: `react native` `expo` `testflight`
+- medical, desktop & systems: `.net` `wpf` `nunit` `moq`
+- cad: `blender` `inventor` `solidworks` `autocad`
 
 <!---
 ZechariahWang/ZechariahWang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
