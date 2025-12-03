@@ -1,12 +1,12 @@
 # hi, i'm zech
 ```mechatronics``` student @ the ```university of waterloo``` <br>
-[zechariahwang.ca](https://www.zechariahwang.ca/) ← check out my personal website for more :)
+[zechariahwang.ca](https://www.zechariahwang.ca/) ← portfolio
 
 ### currently
 - software development engineer intern @ [twos conversation](https://twos.net/) (```fall 2025```)
   - working with the ai engineering team team in ```nyc```!
 - seeking ```summer 2026``` internship opportunities
-- doing lots of learning & building
+- current projects:
   - [westmech](https://github.com/sbrina-w/uofthacks12): canada's leading robotics education company
   - [eclipse](https://github.com/kkatherineliu/umless): #1 competitive robotics framework in alberta
   - [nova ai](https://github.com/FO214/ht6): ai interview assistant for interview prep
