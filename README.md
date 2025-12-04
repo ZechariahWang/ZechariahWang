@@ -8,8 +8,8 @@
 - seeking ```summer 2026``` internship opportunities
 - current projects:
   - [westmech](https://github.com/sbrina-w/uofthacks12): canada's leading robotics education company
-  - [eclipse](https://github.com/kkatherineliu/umless): #1 competitive robotics framework in alberta
-  - [nova ai](https://github.com/FO214/ht6): ai interview assistant for interview prep
+  - [eclipse](https://github.com/kkatherineliu/umless): #1 ranked ai autonomous framework in alberta, 6th in canada and top 16 in the world
+  - [nova](https://github.com/FO214/ht6): ai interview assistant for interview prep
 
 ### past
 - ```winter 2025```: medical ivus/oct imaging for cardiac procedures @ [conavi](https://www.conavi.com/novasight/)
