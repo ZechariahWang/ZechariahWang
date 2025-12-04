@@ -1,10 +1,10 @@
 # hi, i'm zech
-```mechatronics``` student @ the ```university of waterloo``` <br>
-[zechariahwang.ca](https://www.zechariahwang.ca/) ← portfolio
+```mechatronics``` student ```@uwaterloo``` <br>
+portfolio: [zechariahwang.ca](https://www.zechariahwang.ca/)
 
 ### currently
 - software development engineer intern @ [twos conversation](https://twos.net/) (```fall 2025```)
-  - working with the ai engineering team team in ```nyc```!
+  - working with the ai engineering team team in ```nyc```
 - seeking ```summer 2026``` internship opportunities
 - current projects:
   - [westmech](https://github.com/sbrina-w/uofthacks12): canada's leading robotics education company
