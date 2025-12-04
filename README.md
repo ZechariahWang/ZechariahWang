@@ -1,6 +1,6 @@
 # hi, i'm zech
 ```mechatronics``` student ```@uwaterloo``` <br>
-portfolio: [zechariahwang.ca](https://www.zechariahwang.ca/)
+[zechariahwang.ca](https://www.zechariahwang.ca/) ← portfolio
 
 ### currently
 - software development engineer intern @ [twos conversation](https://twos.net/) (```fall 2025```)
