@@ -7,9 +7,9 @@
   - working on ai conversational platforms in ```nyc```
 - seeking ```summer 2026``` internship opportunities
 - current projects:
-  - [westmech](https://github.com/sbrina-w/uofthacks12): canada's leading robotics education company
-  - [eclipse](https://github.com/kkatherineliu/umless): #1 ranked ai autonomous framework in alberta, 6th in canada and top 16 in the world
-  - [nova](https://github.com/FO214/ht6): ai interview assistant for interview prep
+  - [westmech](https://www.westernmech.ca/): canada's leading robotics education company
+  - [eclipse](https://github.com/ZechariahWang/Eclipse-ROS2-Sims): #1 ranked ai autonomous framework in alberta, 6th in canada and top 16 in the world
+  - [nova](https://nova-ai-interviews.vercel.app/): ai interview assistant for interview prep
 
 ### past
 - ```winter 2025```: medical ivus/oct imaging for cardiac procedures @ [conavi](https://www.conavi.com/novasight/)
