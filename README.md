@@ -3,8 +3,7 @@
 [zechariahwang.ca](https://www.zechariahwang.ca/) ← portfolio
 
 ### currently
-- software engineer intern @ [twos conversation](https://twos.net/) (```fall 2025```)
-  - working on ai conversational platforms in ```nyc```
+- mechatronics engineering @ [uwaterloo](https://twos.net/) (```winter 2026```)
 - seeking ```summer 2026``` internship opportunities
 - current projects:
   - [westmech](https://www.westernmech.ca/): canada's leading robotics education company
@@ -12,6 +11,7 @@
   - [nova](https://nova-ai-interviews.vercel.app/): ai interview assistant for interview prep
 
 ### past
+- ```fall 2025```: ai-agents for webrtc analysis @ [the twos company](https://www.conavi.com/novasight/)
 - ```winter 2025```: medical ivus/oct imaging for cardiac procedures @ [conavi](https://www.conavi.com/novasight/)
 - ```winter 2023```: computer imaging of nano-flocculants with mfts @ [university of calgary](https://ucalgary.ca/) 
 
@@ -28,4 +28,8 @@
 <!---
 ZechariahWang/ZechariahWang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+--->
+
+<!--
+  - 2a term winter 2026 in ```waterloo, on```
 --->
