@@ -1,5 +1,4 @@
 # hi, i'm zech
-```mechatronics``` ```@uwaterloo``` <br>
 [zechariahwang.ca](https://www.zechariahwang.ca/) ← portfolio
 
 ### currently
