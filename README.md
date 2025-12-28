@@ -10,7 +10,7 @@
   - [nova](https://nova-ai-interviews.vercel.app/): ai interview assistant for interview prep
 
 ### past
-- ```fall 2025```: ai-agents for webrtc analysis @ [the twos company](https://www.conavi.com/novasight/)
+- ```fall 2025```: ai-agents for webrtc analysis @ [the twos company](https://twos.net/)
 - ```winter 2025```: medical ivus/oct imaging for cardiac procedures @ [conavi](https://www.conavi.com/novasight/)
 - ```2023```: computer imaging of nano-flocculants with mfts @ [university of calgary](https://ucalgary.ca/) 
 
