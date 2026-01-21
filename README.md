@@ -15,11 +15,11 @@
 - ```2023```: computer imaging of nano-flocculants with mfts @ [university of calgary](https://ucalgary.ca/) 
 
 ### technical skills
-- programming languages: `javascript` `typescript` `python` `c++` `c` `c#` `java` `lua` 
+- programming languages: `python` `c++` `c` `c#` `javascript` `typescript` `java` `lua`
+- robotics: `ros2` `linux` `ubuntu` `gazebo` `SoC` `microcontrollers` `pros`
+- data science & ai/ml: `llm` `pytorch` `opencv` `pandas` `matplotlib`
 - web development: `html/css` `react` `next.js` `node.js` `tailwind css` `flask`
-- data science & machine learning: `pytorch` `opencv` `pandas` `matplotlib`
-- cloud & database: `firebase` `mongodb` `aws` `postgresql`
-- robotics: `ros2` `linux` `ubuntu` `gazebo` `arduino` `pros`
+- cloud & database: `firebase` `mongodb` `aws` `postgresql` `redis`
 - mobile development: `react native` `expo` `testflight`
 - medical, desktop & systems: `.net` `wpf` `nunit` `moq`
 - cad: `blender` `inventor` `solidworks` `autocad`
