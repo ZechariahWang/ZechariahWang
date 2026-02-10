@@ -11,7 +11,7 @@
 
 ### past
 - ```fall 2025```: ai-agents for webrtc analysis @ [the twos company](https://twos.net/)
-- ```winter 2025```: medical ivus/oct imaging for cardiac procedures @ [conavi](https://www.conavi.com/novasight/)
+- ```winter 2025```: medical ivus/oct imaging for cardiac procedures @ [conavi medical](https://www.conavi.com/novasight/)
 - ```2023```: computer imaging of nano-flocculants with mfts @ [university of calgary](https://ucalgary.ca/) 
 
 ### technical skills
