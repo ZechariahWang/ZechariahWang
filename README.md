@@ -15,7 +15,7 @@
 
 ### technical skills
 - programming languages: `python` `c++` `c` `c#` `javascript` `typescript` `java` `lua`
-- robotics: `ros2` `linux` `ubuntu` `gazebo` `SoC` `microcontrollers` `pros`, `foxglove`
+- robotics: `ros2` `linux` `ubuntu` `gazebo` `SoC` `microcontrollers` `pros` `foxglove`
 - data science & ai/ml: `llm` `pytorch` `opencv` `pandas` `matplotlib`
 - web development: `html/css` `react` `next.js` `node.js` `tailwind css` `flask`
 - cloud & database: `firebase` `mongodb` `aws` `postgresql` `redis`
