@@ -9,6 +9,7 @@
   - [nova](https://nova-ai-interviews.vercel.app/): ai interview assistant for technical interview prep
 
 ### past
+- ```winter 2026```: autonomous vehicles for the u.s army @ [exia labs](https://www.exialabs.com/)
 - ```fall 2025```: ai-agents for webrtc analysis @ [the twos company](https://twos.net/)
 - ```winter 2025```: medical ivus/oct imaging for cardiac procedures @ [conavi medical](https://www.conavi.com/novasight/)
 - ```2023```: computer imaging of nano-flocculants with mfts @ [university of calgary](https://ucalgary.ca/) 
@@ -17,10 +18,9 @@
 - programming languages: `python` `c++` `c` `c#` `javascript` `typescript` `java` `lua`
 - robotics: `ros2` `linux` `ubuntu` `gazebo` `SoC` `microcontrollers` `pros` `foxglove`
 - data science & ai/ml: `llm` `pytorch` `opencv` `pandas` `matplotlib`
-- web development: `html/css` `react` `next.js` `node.js` `tailwind css` `flask`
+- fullstack: `html/css` `react` `next.js` `node.js` `tailwind css` `flask` `.net` `wpf` `nunit` `moq`
 - cloud & database: `firebase` `mongodb` `aws` `postgresql` `redis`
 - mobile development: `react native` `expo` `testflight`
-- medical, desktop & systems: `.net` `wpf` `nunit` `moq`
 - cad: `blender` `inventor` `solidworks` `autocad`
 
 <!---
