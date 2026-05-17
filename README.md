@@ -3,6 +3,7 @@
 
 ### currently
 - mechatronics engineering @ [uwaterloo](https://twos.net/) (```winter 2026```)
+- ML @ [RoBIM]([https://www.robimtech.com/]) (```summer 2026```)
 - current projects:
   - [westmech](https://www.westernmech.ca/): canada's leading robotics education company
   - [eclipse](https://github.com/ZechariahWang/Eclipse-ROS2-Sims): #1 ranked ai autonomous framework in alberta, 6th in canada and top 16 in the world
