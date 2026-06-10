@@ -2,7 +2,7 @@
 [zechariahwang.ca](https://www.zechariahwang.ca/) ← portfolio
 
 ### currently
-- mechatronics engineering @ [uwaterloo](https://twos.net/) (```winter 2026```)
+- 2a mechatronics engineering @ [uwaterloo](https://uwaterloo.ca/)
 - ML & Vision @ [RoBIM](https://www.robimtech.com/) (```summer 2026```)
 - current projects:
   - [westmech](https://www.westernmech.ca/): canada's leading robotics education company
