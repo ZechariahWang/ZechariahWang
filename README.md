@@ -4,11 +4,12 @@
 ### currently
 - 2a mechatronics engineering @ [uwaterloo](https://uwaterloo.ca/)
 - ML & Vision @ [RoBIM](https://www.robimtech.com/) (```summer 2026```)
+<!---
 - current projects:
   - [westmech](https://www.westernmech.ca/): canada's leading robotics education company
   - [eclipse](https://github.com/ZechariahWang/Eclipse-ROS2-Sims): #1 ranked ai autonomous framework in alberta, 6th in canada and top 16 in the world
   - [nova](https://nova-ai-interviews.vercel.app/): ai interview assistant for technical interview prep
-
+--->
 ### past
 - ```winter 2026```: autonomous vehicles for the u.s army @ [exia labs](https://www.exialabs.com/)
 - ```fall 2025```: ai-agents for webrtc analysis @ [the twos company](https://twos.net/)
