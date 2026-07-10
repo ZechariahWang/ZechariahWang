@@ -3,7 +3,7 @@
 
 ### currently
 - 2a mechatronics engineering @ [uwaterloo](https://uwaterloo.ca/)
-- ml & vision @ [robim](https://www.robimtech.com/) (```summer 2026```)
+- robotics swe @ [robim](https://www.robimtech.com/) (```summer 2026```)
 <!---
 - current projects:
   - [westmech](https://www.westernmech.ca/): canada's leading robotics education company
