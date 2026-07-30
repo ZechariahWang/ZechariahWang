@@ -19,11 +19,11 @@
 ### technical skills
 - programming languages: `python` `c++` `c` `c#` `javascript` `typescript` `java` `lua`
 - robotics: `ros2` `linux` `ubuntu` `gazebo` `SoC` `microcontrollers` `pros` `foxglove`
-- ai/ml:  `pytorch` `opencv` `pybullet` `stablebaseline3` `gymnasium` `yolo` `pandas` `matplotlib` `llm` `openclaw`
+- ai/ml:  `pytorch` `opencv` `pybullet` `stablebaseline3` `gymnasium` `yolo` `pandas` `matplotlib` `llm`
 - fullstack: `html/css` `react` `next.js` `node.js` `tailwind css` `flask` `.net` `wpf` `nunit` `moq`
 - cloud & database: `firebase` `mongodb` `aws` `postgresql` `redis`
 - mobile development: `react native` `expo` `testflight`
-- cad: `blender` `inventor` `solidworks` `autocad` `fusion`
+- cad: `blender` `inventor` `solidworks` `autocad` `fusion360`
 
 <!---
 ZechariahWang/ZechariahWang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
