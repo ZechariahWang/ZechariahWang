@@ -12,7 +12,7 @@
 --->
 ### past
 - ```winter 2026```: autonomous medical vehicles for the u.s army @ [exia labs](https://www.exialabs.com/)
-- ```fall 2025```: ai-agents for webrtc analysis @ [the twos company](https://twos.net/)
+- ```fall 2025```: ai-agents for webrtc @ [the twos company](https://twos.net/)
 - ```winter 2025```: medical ivus/oct imaging for cardiac procedures @ [conavi medical](https://www.conavi.com/novasight/)
 - ```2023```: computer imaging of nano-flocculants with mfts @ [university of calgary](https://ucalgary.ca/) 
 
