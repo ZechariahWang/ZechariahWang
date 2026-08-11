@@ -19,7 +19,7 @@
 ### technical skills
 - programming languages: `python` `c++` `c` `c#` `javascript` `typescript` `java` `lua`
 - robotics: `ros2` `linux` `gazebo` `soc` `stm32` `arduino` `pros` `foxglove`
-- ai/ml:  `pytorch` `opencv` `pybullet` `stable-baselines3` `gymnasium` `yolo` `pandas` `matplotlib` `llm`
+- ai/ml:  `pytorch` `opencv` `pybullet` `stable-baselines3` `gymnasium` `yolo` `mujoco` `matplotlib` `llm`
 - fullstack: `html/css` `react` `next.js` `node.js` `tailwind css` `flask` `.net` `wpf`
 - cloud & database: `firebase` `mongodb` `aws` `postgresql` `redis`
 - mobile development: `react native` `expo`
