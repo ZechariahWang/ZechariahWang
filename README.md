@@ -23,7 +23,7 @@
 - fullstack: `html/css` `react` `next.js` `node.js` `tailwind css` `flask` `.net` `wpf`
 - cloud & database: `firebase` `mongodb` `aws` `postgresql` `redis`
 - mobile development: `react native` `expo`
-- cad: `blender` `inventor` `solidworks` `autocad` `fusion360`
+- cad: `fusion360` `inventor` `solidworks` `autocad` `blender` 
 
 <!---
 ZechariahWang/ZechariahWang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
