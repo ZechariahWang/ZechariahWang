@@ -2,8 +2,7 @@
 [zechariahwang.ca](https://www.zechariahwang.ca/) ← portfolio
 
 ### currently
-- 2a mechatronics engineering @ [uwaterloo](https://uwaterloo.ca/)
-- robotics swe @ [robim](https://www.robimtech.com/) (```summer 2026```)
+- 2b mechatronics engineering @ [uwaterloo](https://uwaterloo.ca/)
 <!---
 - current projects:
   - [westmech](https://www.westernmech.ca/): canada's leading robotics education company
@@ -11,6 +10,7 @@
   - [nova](https://nova-ai-interviews.vercel.app/): ai interview assistant for technical interview prep
 --->
 ### past
+- ```summer 2026```: robotics for construction fabrication @ [robim](https://www.robimtech.com/)
 - ```winter 2026```: autonomous medical vehicles for the u.s army @ [exia labs](https://www.exialabs.com/)
 - ```fall 2025```: ai-agents for webrtc @ [the twos company](https://twos.net/)
 - ```winter 2025```: medical ivus/oct imaging for cardiac procedures @ [conavi medical](https://www.conavi.com/novasight/)
