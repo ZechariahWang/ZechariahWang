@@ -14,7 +14,7 @@
 - ```winter 2026```: autonomous medical robots for the u.s army @ [exia labs](https://www.exialabs.com/)
 - ```fall 2025```  : autonomous ai-agents for webrtc @ [the twos company](https://twos.net/)
 - ```winter 2025```: medical ivus/oct imaging for cardiac procedures @ [conavi medical](https://www.conavi.com/novasight/)
-- ```2023```       : computer imaging of nano-flocculants with mfts @ [university of calgary](https://ucalgary.ca/) 
+- ```winter 2023```       : computer imaging of nano-flocculants with mfts @ [university of calgary](https://ucalgary.ca/) 
 
 ### technical skills
 - programming languages: `python` `c++` `c` `c#` `javascript` `typescript` `java` `lua`
