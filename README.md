@@ -1,6 +1,8 @@
 # hi, i'm zech
 [zechariahwang.ca](https://www.zechariahwang.ca/) ← portfolio
 
+i love men
+
 ### currently
 - 2b mechatronics engineering @ [uwaterloo](https://uwaterloo.ca/)
 <!---
