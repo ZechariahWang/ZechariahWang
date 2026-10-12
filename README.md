@@ -11,9 +11,9 @@
 --->
 ### past
 - ```summer 2026```: robotics for construction fabrication @ [robim](https://www.robimtech.com/)
-- ```winter 2026```: autonomous medical robots for the u.s army @ [exia labs](https://www.exialabs.com/)
-- ```fall 2025```  : autonomous ai-agents for webrtc @ [the twos company](https://twos.net/)
-- ```winter 2025```: medical ivus/oct imaging for cardiac procedures @ [conavi medical](https://www.conavi.com/novasight/)
+- ```winter 2026```: robotics for the u.s army (medical) @ [exia labs](https://www.exialabs.com/)
+- ```fall 2025```  : ai-agents for webrtc @ [the twos company](https://twos.net/)
+- ```winter 2025```: computer imaging for cardiac procedures @ [conavi medical](https://www.conavi.com/novasight/)
 - ```winter 2023```       : computer imaging of nano-flocculants with mfts @ [university of calgary](https://ucalgary.ca/) 
 
 ### technical skills
