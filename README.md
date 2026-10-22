@@ -10,11 +10,11 @@
   - [nova](https://nova-ai-interviews.vercel.app/): ai interview assistant for technical interview prep
 --->
 ### past
-- ```summer 2026```: robotics for construction fabrication @ [robim](https://www.robimtech.com/)
-- ```winter 2026```: robotics for the u.s army (medical) @ [exia labs](https://www.exialabs.com/)
-- ```fall 2025```  : ai-agents for webrtc @ [the twos company](https://twos.net/)
-- ```winter 2025```: computer imaging for cardiac procedures @ [conavi medical](https://www.conavi.com/novasight/)
-- ```winter 2023```       : computer imaging of nano-flocculants with mfts @ [university of calgary](https://ucalgary.ca/) 
+- ```summer 2026```: robotics @ [robim](https://www.robimtech.com/)
+- ```winter 2026```: robotics @ [exia labs](https://www.exialabs.com/)
+- ```fall 2025```  : ai @ [the twos company](https://twos.net/)
+- ```winter 2025```: r&d @ [conavi medical](https://www.conavi.com/novasight/)
+- ```winter 2023```: research @ [university of calgary](https://ucalgary.ca/) 
 
 <!--
 ### technical skills
