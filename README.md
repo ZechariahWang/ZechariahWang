@@ -16,6 +16,7 @@
 - ```winter 2025```: computer imaging for cardiac procedures @ [conavi medical](https://www.conavi.com/novasight/)
 - ```winter 2023```       : computer imaging of nano-flocculants with mfts @ [university of calgary](https://ucalgary.ca/) 
 
+<!--
 ### technical skills
 - programming languages: `python` `c++` `c` `c#` `javascript` `typescript` `java` `lua`
 - robotics: `ros2` `linux` `gazebo` `soc` `stm32` `arduino` `pros` `foxglove`
@@ -24,6 +25,8 @@
 - cloud & database: `firebase` `mongodb` `aws` `postgresql` `redis`
 - mobile development: `react native` `expo`
 - cad: `fusion360` `inventor` `solidworks` `autocad` `blender` 
+
+--->
 
 <!---
 ZechariahWang/ZechariahWang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
